@@ -60,6 +60,9 @@
 		D58D132C24508D00007D67E3 /* Instagrid-Version6 */ = {
 			isa = PBXGroup;
 			children = (
+				D58D13492450918E007D67E3 /* Controller */,
+				D58D134824509182007D67E3 /* View */,
+				D58D134724509164007D67E3 /* Model */,
 				D58D132D24508D00007D67E3 /* AppDelegate.swift */,
 				D58D132F24508D00007D67E3 /* SceneDelegate.swift */,
 				D58D133124508D00007D67E3 /* ViewController.swift */,
@@ -71,6 +74,27 @@
 				D58D133B24508D01007D67E3 /* Info.plist */,
 			);
 			path = "Instagrid-Version6";
+			sourceTree = "<group>";
+		};
+		D58D134724509164007D67E3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D58D134824509182007D67E3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D58D13492450918E007D67E3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
