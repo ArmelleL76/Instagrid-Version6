@@ -13,6 +13,8 @@
 		D58D133524508D00007D67E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D58D133324508D00007D67E3 /* Main.storyboard */; };
 		D58D133724508D01007D67E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D58D133624508D01007D67E3 /* Assets.xcassets */; };
 		D58D133A24508D01007D67E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D58D133824508D01007D67E3 /* LaunchScreen.storyboard */; };
+		D58D134324509032007D67E3 /* Delm-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = D58D134124509032007D67E3 /* Delm-Medium.otf */; };
+		D58D134424509032007D67E3 /* ThirstySoftRegular 23-42-34-815.otf in Resources */ = {isa = PBXBuildFile; fileRef = D58D134224509032007D67E3 /* ThirstySoftRegular 23-42-34-815.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D58D133624508D01007D67E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D58D133924508D01007D67E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D58D133B24508D01007D67E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D58D134124509032007D67E3 /* Delm-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Delm-Medium.otf"; path = "../../Desktop/PROJET4 ressources/polices du P4/Delm-Medium.otf"; sourceTree = "<group>"; };
+		D58D134224509032007D67E3 /* ThirstySoftRegular 23-42-34-815.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ThirstySoftRegular 23-42-34-815.otf"; path = "../../Desktop/PROJET4 ressources/polices du P4/ThirstySoftRegular 23-42-34-815.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				D58D133324508D00007D67E3 /* Main.storyboard */,
 				D58D133624508D01007D67E3 /* Assets.xcassets */,
 				D58D133824508D01007D67E3 /* LaunchScreen.storyboard */,
+				D58D134124509032007D67E3 /* Delm-Medium.otf */,
+				D58D134224509032007D67E3 /* ThirstySoftRegular 23-42-34-815.otf */,
 				D58D133B24508D01007D67E3 /* Info.plist */,
 			);
 			path = "Instagrid-Version6";
@@ -126,7 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D58D133A24508D01007D67E3 /* LaunchScreen.storyboard in Resources */,
+				D58D134424509032007D67E3 /* ThirstySoftRegular 23-42-34-815.otf in Resources */,
 				D58D133724508D01007D67E3 /* Assets.xcassets in Resources */,
+				D58D134324509032007D67E3 /* Delm-Medium.otf in Resources */,
 				D58D133524508D00007D67E3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
